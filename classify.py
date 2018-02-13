@@ -1,4 +1,3 @@
-$ python classifier.py
 import os
 import re
 import sys
